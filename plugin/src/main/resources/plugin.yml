@@ -1,0 +1,8 @@
+name: MinecraftWhiteboard
+version: '${project.version}'
+main: dev.jensderuiter.minecraft_whiteboard.MinecraftWhiteboard
+api-version: 1.18
+authors: [ jensjeflensje ]
+commands:
+  spawnwhiteboard:
+    usage: /spawnwhiteboard
